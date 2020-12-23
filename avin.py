@@ -39,7 +39,7 @@ os.system("echo x•••••••••••••••••••••
 os.system("echo Nama Tool: AVIN NDESO | lolcat -a")
 os.system("echo Author: CRAZY! | lolcat -a")
 os.system("echo Whatsapp: +6285373045750 | lolcat -a")
-os.system("echo Github: https://github.com/AvinNdeso | lolcat -a")
+os.system("echo Github: https://github.com/Fuziro | lolcat -a")
 os.system("echo Youtube: Nothing | lolcat -a")
 os.system("echo x•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••x | lolcat -a")
 nope = input(f"{merah}[?] Masukkan no target: ")
