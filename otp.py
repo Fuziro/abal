@@ -9,7 +9,7 @@ c='\033[96m'
 w='\033[0m'
 
 __banner__ = ('''
-  spam kita.bisa gan :V
+  Programmer Indonesia - Haris 
 %s ###############################
  # %scode : Avindeso             %s#
  # %srecode: SalisM3             %s#
